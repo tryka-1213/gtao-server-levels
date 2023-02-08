@@ -54,3 +54,5 @@ console.log(xp) // 5453760
 ```
 
 ## Levelling System Facts
+### Multipliers
+#memes
