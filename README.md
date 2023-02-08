@@ -64,5 +64,5 @@ by 240, and then multiplied by 120.
 
 Equation
 ```
-var xpRequired = (currentLevel * 120) + 240
+xpRequired = (currentLevel * 120) + 240
 ```
