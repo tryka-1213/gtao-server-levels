@@ -1,6 +1,6 @@
 # GTAO Discord Server Levels
-Calculate server levelling information, including the number of messages required to reach a given level.
-
+Calculate server levelling information, including the number of messages required to reach a given level.  
+Available in GUI form @ [https://tryka-1213.github.io/gtao-server-levels-calculator/](https://tryka-1213.github.io/gtao-server-levels-calculator/)
 
 ## Examples
 ### Level to message count
