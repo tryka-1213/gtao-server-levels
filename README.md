@@ -2,7 +2,7 @@
 Calculate server levelling information, including the number of messages required to reach a certain level.
 
 
-### Examples
+## Examples
 ### Level to message count
 ```js
 const { levelToMessageCount } = require("./index.js")
