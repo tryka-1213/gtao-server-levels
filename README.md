@@ -16,7 +16,7 @@ Prestige 1 will boost XP earned by 20%. Default value is false
 let messagesNeeded = levelToMessageCount(100, false)
 console.log(messagesNeeded) // 20592
 ```
-
+### Level to message count
 ```js
 const { messageCountToLevel } = require("./index.js")
 
