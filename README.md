@@ -55,4 +55,5 @@ console.log(xp) // 5453760
 
 ## Levelling System Facts
 ### Multipliers
-#memes
+#memes-and-shitposting == 0.5x / 50% less xp
+#serious-discussions == 1.5x / 50% more xp
