@@ -30,3 +30,25 @@ the same level as User B, who has no prestige
 let level = messageCountToLevel(38500, false)
 console.log(level) // 136
 ```
+### XP to level
+```js
+const { xpToLevel } = require("./index.js")
+
+/**
+usage: xpToLevel(xp)
+*/
+
+let level = xpToLevel(12313)
+console.log(level) // 12
+```
+### Level to XP
+```js
+const { levelToXp } = require("./index.js")
+
+/**
+usage: levelToXp(level)
+*/
+
+let xp = levelToXp(300)
+console.log(xp) // 5453760
+```
