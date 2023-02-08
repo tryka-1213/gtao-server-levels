@@ -52,3 +52,5 @@ usage: levelToXp(level)
 let xp = levelToXp(300)
 console.log(xp) // 5453760
 ```
+
+## Levelling System Facts
