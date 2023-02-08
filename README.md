@@ -58,3 +58,11 @@ console.log(xp) // 5453760
 #memes-and-shitposting == 0.5x / 50% less xp   
 #serious-discussions == 1.5x / 50% more xp
 
+### XP Needed Per Level
+Every new level, the XP needed to reach the next level is increased  
+by 240, and then multiplied by 120.
+
+Equation
+```
+var xpRequired = (currentLevel * 120) + 240
+```
