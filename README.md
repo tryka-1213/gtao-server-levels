@@ -56,7 +56,8 @@ console.log(xp) // 5453760
 ## Levelling System Facts
 ### Multipliers
 #memes-and-shitposting == 0.5x / 50% less xp   
-#serious-discussions == 1.5x / 50% more xp
+#serious-discussions == 1.5x / 50% more xp  
+#lfg- == 0.2x / 80% less xp
 
 ### XP Needed Per Level
 At every new level, the XP needed to reach the next level is increased  
