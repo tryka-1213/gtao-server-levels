@@ -61,7 +61,7 @@ console.log(xp) // 5453760
 
 ### XP Needed Per Level
 At every new level, the XP needed to reach the next level is increased  
-by 240, and then multiplied by 120.
+by 240, and then multiplied by your current level, and then by 120.
 
 Equation
 ```
