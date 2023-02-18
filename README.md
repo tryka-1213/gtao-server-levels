@@ -65,5 +65,5 @@ by 240, and then multiplied by your current level, and then by 120.
 
 Equation
 ```
-xpRequired = (currentLevel * 120) + 240
+xpRequiredForNextLevel = (currentLevel * 120) + 240
 ```
