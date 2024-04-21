@@ -59,7 +59,7 @@ console.log(xp) // 5453760
 Examples:
 - 1 message sent in 1 minute => 30xp
 - 3 messages sent in 1 minute => Max of 60xp
-- 
+  
 ### Multipliers
 #memes-and-shitposting == 0.5x / 50% less xp   
 #serious-discussions == 1.5x / 50% more xp  
