@@ -3,7 +3,7 @@ Calculate server levelling information, including the number of messages require
 Available in a hacked together GUI form @ [https://tryka-1213.github.io/gtao-server-levels-calculator/](https://tryka-1213.github.io/gtao-server-levels-calculator/)
 
 ## Functions
-all results are approximated, because there's no way to accurately factor in message frequency or channel usage
+all results are approximate, because there's no way to accurately factor in message frequency or channel usage
 ### Level to message count
 ```js
 const { levelToMessageCount } = require("./index.js")
